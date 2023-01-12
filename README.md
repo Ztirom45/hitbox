@@ -2,7 +2,7 @@
 
 a hitbox liberry for cicle and rectangle hitboxen written in c for python and c.
 
-## general
+## general:
 You can include hitbox.h in c.
 
 ## only Linux:
